@@ -1,0 +1,128 @@
+{
+    "main": {
+        "name": "Saidheeraj Poosarla",
+        "description": "I am an aspiring software engineer with more than 2 years of professional experience in a dynamic and fast-paced environment. An enthusiastic learner with profound logical reasoning and programming skills...",
+        "image": "profilepic.jpg",
+        "bio": "I am an extremely determined software professional currently working as a Machine Learning Engineer at Arizona State University while pursuing Masters in Computer Science. I am comfortable with the programming languages of Python and Java. I am also familiar with the web development technologies of JavaScript, ReactJs, HTML, CSS and Bootstrap. I even have the experience of dealing with large datasets and building advanced machine learning models.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "saidheeraj572@gmail.com",
+        "phone": "602-386-7432",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "1011 East Lemon Street",
+            "city": "Tempe",
+            "state": "Arizona"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://github.com/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "Arizona State University",
+                "degree": "Masters in Computer Science",
+                "graduated": "December 2022",
+                "description": "My current Cumulative GPA: 4.33 / 4.0"
+            },
+            {
+                "school": "National Institute of Technology Karnataka, Surathkal",
+                "degree": "Bachelor of Technology - Information Technology",
+                "graduated": "May 2019",
+                "description": "Achieved a Cumulative GPA of 7.33 / 10.0"
+            }
+        ],
+        "work": [
+            {
+                "company": "Department of Magical Law Enforcement",
+                "title": "Ministry of Magic",
+                "years": "December 2010 - Present",
+                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+            },
+            {
+                "company": "Department for the Regulation and Control of Magical Creatures",
+                "title": "Ministry of Magic",
+                "years": "March 2007 - December 2010",
+                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "VueJs",
+                "level": "55%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "50%"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "JAVA",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project2.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project3.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpg",
+                "url": "https://www.google.com"
+            }
+        ]
+    }
+}

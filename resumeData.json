@@ -15,114 +15,132 @@
             "state": "Arizona"
         },
         "website": "https://github.com/",
-        "resumedownload": "https://github.com/",
+        "resumedownload": "https://drive.google.com/file/d/1vaBHl9DRSu2r2nMrYkGD4lJ3U3VCqNiN/view?usp=sharing",
         "social": [
             {
                 "name": "facebook",
-                "url": "https://github.com/",
+                "url": "https://www.facebook.com/dheeraj.sai.5661",
                 "className": "fa fa-facebook"
             },
             {
                 "name": "twitter",
-                "url": "http://twitter.com",
+                "url": "https://twitter.com/Dheeraj91969262?s=09",
                 "className": "fa fa-twitter"
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/sai-dheeraj-poosarla-56b145141/",
                 "className": "fa fa-linkedin"
             },
             {
                 "name": "instagram",
-                "url": "http://instagram.com/",
+                "url": "https://www.instagram.com/dheeraj572/",
                 "className": "fa fa-instagram"
             },
             {
                 "name": "github",
-                "url": "https://github.com/",
+                "url": "https://github.com/Sai-Dheeraj-Poosarla",
                 "className": "fa fa-github"
             }
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "In addition to my most proficient skills below, I have also worked on and have experience on C, HTML, CSS, Bootstrap, Git, GitHub, BitBucket, Salesforce, Tableau, Toad DataPoint, Snowflake, Einstein Analytics, Pardot, Monday.com, Statistics, Deep Learning, Scala, SparkSQL and Apache Spark.",
         "education": [
             {
                 "school": "Arizona State University",
-                "degree": "Masters in Computer Science",
-                "graduated": "December 2022",
-                "description": "My current Cumulative GPA: 4.33 / 4.0"
+                "degree": "Master of Science in Computer Science",
+                "graduated": "January 2021 - December 2022",
+                "description": "Current Cumulative GPA: 4.33 / 4.0"
             },
             {
                 "school": "National Institute of Technology Karnataka, Surathkal",
-                "degree": "Bachelor of Technology - Information Technology",
-                "graduated": "May 2019",
-                "description": "Achieved a Cumulative GPA of 7.33 / 10.0"
+                "degree": "Bachelor of Technology in Information Technology",
+                "graduated": "July 2015 - May 2019",
+                "description": "Cumulative GPA: 7.33 / 10.0"
             }
         ],
         "work": [
             {
-                "company": "Department of Magical Law Enforcement",
-                "title": "Ministry of Magic",
-                "years": "December 2010 - Present",
-                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+                "company": "Arizona State University",
+                "title": "Machine Learning Engineer",
+                "years": "March 2021 - Present",
+                "description1": "Predictive Modeling: Developed a classification model to predict the open and click through rates of the marketing emails sent by the University which improved the rates by 4% and 6% respectively.",
+                "description2": "Deep Learning: Predicted the conversion probability of leads using deep learning models with an accuracy of 88%, thereby, increasing the conversion rate by 2%.",
+                "description3": ""
             },
             {
-                "company": "Department for the Regulation and Control of Magical Creatures",
-                "title": "Ministry of Magic",
-                "years": "March 2007 - December 2010",
-                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+                "company": "ExxonMobil",
+                "title": "Software Engineer",
+                "years": "June 2019 - December 2020",
+                "description1": "Customer Sentiment Analysis: Implemented a Natural Language Processing model with Python and SQL to achieve the sentiments of the unstructured customer feedback and integrated the results to a Tableau dashboard which enabled the sales managers to improve the customer satisfaction by 3%.",
+                "description2": "Data Mining: Built predictive models to identify attributes related to delinquent customers and adjusted the sales limits for such customers accordingly.",
+                "description3": "Forecasting: Predicted demand for ExxonMobil Chemicals by developing forecasting models in Python that helped in storage optimization across different warehouses."
+
+            },
+            {
+                "company": "Trashin Recycling Private Limited",
+                "title": "Full Stack Developer",
+                "years": "May 2018 - July 2018",
+                "description1": "Built the UI design and prototype for the company’s web application and developed highly interactive components using React concepts which improved the brand name of the organization.",
+                "description2": "Translated designs and wireframes into highly optimized code using JavaScript with React.js library.",
+                "description3": ""
             }
         ],
         "skills": [
             {
                 "name": "Python",
-                "level": "60%"
-            },
-            {
-                "name": "VueJs",
-                "level": "55%"
+                "level": "75%"
             },
             {
                 "name": "ReactJs",
-                "level": "50%"
+                "level": "65%"
             },
             {
-                "name": "CSS",
-                "level": "90%"
+                "name": "SQL",
+                "level": "70%"
             },
             {
-                "name": "JAVA",
-                "level": "80%"
+                "name": "Java",
+                "level": "60%"
+            },
+            {
+                "name": "Machine Learning",
+                "level": "70%"
+            },
+            {
+                "name": "Natural Language Processing",
+                "level": "55%"
             }
         ]
     },
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Video Captioning with Attention-Based LSTM and Semantic Consistency",
+                "category": "Developed a novel end-to-end framework named aLSTMs, an attention-based LSTM model, to capture crucial features of a video and convert them into human understandable sentences.",
                 "image": "project1.jpg",
                 "url": "https://www.google.com"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project2.jpg",
+                "title": "Geospatial hotspot analysis of NYC taxi trip dataset",
+                "category": "Developed spatial queries using Scala, SQL, SparkSQL and Apache Spark on a firm’s database containing geographic data and the real time location data of their customers. Defined and implemented hot cell and hot zone analyses which provides useful actionable insights about the firm’s customers.",
+                "image": "project5.jpg",
                 "url": "https://www.google.com"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project3.jpg",
-                "url": "https://www.google.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Fraud Detection",
+                "category": "Developed an advanced machine learning model to identify the most influencing features and predict whether a card transaction is a fraud or not.",
                 "image": "project4.jpg",
                 "url": "https://www.google.com"
+            },
+            {
+                "title": "Space Invaders Game",
+                "category": "Built a popular game using Java and Swing toolkit which involved creating a graphical user interface, populating it with game pieces, enabling movement and shooting capabilities in the game pieces, detecting any hits, and calculating the score.",
+                "image": "project3.jpg",
+                "url": "https://www.google.com"
             }
+
         ]
     }
 }

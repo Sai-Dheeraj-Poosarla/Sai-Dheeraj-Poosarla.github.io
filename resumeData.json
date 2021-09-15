@@ -14,7 +14,7 @@
             "state": "Arizona"
         },
         "website": "https://sai-dheeraj-poosarla.github.io/",
-        "resumedownload": "https://drive.google.com/file/d/1vaBHl9DRSu2r2nMrYkGD4lJ3U3VCqNiN/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1P4F-BsXYejCQMtvTnAZXoo_Ij2-rfwmK/view?usp=sharing",
         "social": [
             {
                 "name": "facebook",
@@ -44,13 +44,13 @@
         ]
     },
     "resume": {
-        "skillmessage": "In addition to my most proficient skills below, I have also worked on and have experience on C, HTML, CSS, Bootstrap, Git, GitHub, BitBucket, Salesforce, Tableau, Toad DataPoint, Snowflake, Einstein Analytics, Pardot, Monday.com, Statistics, Deep Learning, Scala, SparkSQL and Apache Spark.",
+        "skillmessage": "In addition to my most proficient skills below, I have also worked on and have experience on C, HTML, CSS, Bootstrap, Git, GitHub, BitBucket, MySQL, PostgreSQL, Google Colab, Jupyter, Salesforce, Tableau, Toad DataPoint, Snowflake, Einstein Analytics, Pardot, Monday.com, Slack, Deep Learning, Scala, Apache Spark, Excel and PowerPoint.",
         "education": [
             {
                 "school": "Arizona State University",
                 "degree": "Master of Science in Computer Science",
                 "graduated": "January 2021 - December 2022",
-                "description": "Current Cumulative GPA: 4.33 / 4.0"
+                "description": "Current Cumulative GPA: 4.0 / 4.0"
             },
             {
                 "school": "National Institute of Technology Karnataka, Surathkal",
@@ -66,15 +66,17 @@
                 "years": "March 2021 - Present",
                 "description1": "Predictive Modeling: Developed a classification model to predict the open and click through rates of the marketing emails sent by the University which improved the rates by 4% and 6% respectively.",
                 "description2": "Deep Learning: Predicted the conversion probability of leads using deep learning models with an accuracy of 88%, thereby, increasing the conversion rate by 2%.",
-                "description3": ""
+                "description3": "",
+                "description4": ""
             },
             {
                 "company": "ExxonMobil",
                 "title": "Software Engineer",
                 "years": "June 2019 - December 2020",
                 "description1": "Customer Sentiment Analysis: Implemented a Natural Language Processing model with Python and SQL to achieve the sentiments of the unstructured customer feedback and integrated the results to a Tableau dashboard which enabled the sales managers to improve the customer satisfaction by 3%.",
-                "description2": "Data Mining: Built predictive models to identify attributes related to delinquent customers and adjusted the sales limits for such customers accordingly.",
-                "description3": "Forecasting: Predicted demand for ExxonMobil Chemicals by developing forecasting models in Python that helped in storage optimization across different warehouses."
+                "description2": "Web Development: Built highly responsive React components, incorporated new features and refined the code for the company’s internal skills assessment website to enhance user engagement. Developed single page applications and responsive UI using HTML5 grid layouts, CSS, JavaScript, Bootstrap and React.",
+                "description3": "Data Mining: Built predictive models to identify attributes related to delinquent customers and adjusted the sales limits for such customers accordingly.",
+                "description4": "Forecasting: Predicted demand for ExxonMobil Chemicals by developing forecasting models in Python that helped in storage optimization across different warehouses."
 
             },
             {
@@ -83,7 +85,8 @@
                 "years": "May 2018 - July 2018",
                 "description1": "Built the UI design and prototype for the company’s web application and developed highly interactive components using React concepts which improved the brand name of the organization.",
                 "description2": "Translated designs and wireframes into highly optimized code using JavaScript with React.js library.",
-                "description3": ""
+                "description3": "",
+                "description4": ""
             }
         ],
         "skills": [
@@ -116,27 +119,27 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Video Captioning with Attention-Based LSTM and Semantic Consistency",
-                "category": "Developed a novel end-to-end framework named aLSTMs, an attention-based LSTM model, to capture crucial features of a video and convert them into human understandable sentences.",
-                "image": "project1.jpg",
-                "url": "https://www.google.com"
-            },
-            {
                 "title": "Geospatial hotspot analysis of NYC taxi trip dataset",
                 "category": "Developed spatial queries using Scala, SQL, SparkSQL and Apache Spark on a firm’s database containing geographic data and the real time location data of their customers. Defined and implemented hot cell and hot zone analyses which provides useful actionable insights about the firm’s customers.",
                 "image": "project5.jpg",
                 "url": "https://www.google.com"
             },
             {
-                "title": "Fraud Detection",
-                "category": "Developed an advanced machine learning model to identify the most influencing features and predict whether a card transaction is a fraud or not.",
-                "image": "project4.jpg",
-                "url": "https://www.google.com"
-            },
-            {
                 "title": "Space Invaders Game",
                 "category": "Built a popular game using Java and Swing toolkit which involved creating a graphical user interface, populating it with game pieces, enabling movement and shooting capabilities in the game pieces, detecting any hits, and calculating the score.",
                 "image": "project3.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Video Captioning with Attention-Based LSTM and Semantic Consistency",
+                "category": "Developed a novel end-to-end framework named aLSTMs, an attention-based LSTM model, to capture crucial features of a video and convert them into human understandable sentences.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Banking Application",
+                "category": "Developed a banking application using conditions and locks in Java to ensure thread safety without compromising on data integrity. ",
+                "image": "project4.jpg",
                 "url": "https://www.google.com"
             }
 

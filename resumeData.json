@@ -73,7 +73,7 @@
                 "company": "ExxonMobil",
                 "title": "Software Engineer",
                 "years": "June 2019 - December 2020",
-                "description1": "Web Development: Built highly responsive React components, incorporated new features and refined the code for the company’s internal skills assessment website which enhance user engagement by 7%. Developed single page applications and responsive UI using HTML5 grid layouts, CSS, JavaScript, Bootstrap and React.",
+                "description1": "Web Development: Built highly responsive React components, incorporated new features and refined the code for the company’s internal skills assessment website which enhanced user engagement by 7%. Developed single page applications and responsive UI using HTML5 grid layouts, CSS, JavaScript, Bootstrap and React.",
                 "description2": "Customer Sentiment Analysis: Implemented a Natural Language Processing model with Python and SQL to achieve the sentiments of the unstructured customer feedback and integrated the results to a Tableau dashboard which enabled the sales managers to improve the customer satisfaction by 3%.",
                 "description3": "Data Mining: Built predictive models to identify attributes related to delinquent customers and adjusted the sales limits for such customers accordingly.",
                 "description4": "Forecasting: Predicted demand for ExxonMobil Chemicals by developing forecasting models in Python that helped in storage optimization across different warehouses."
